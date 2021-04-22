@@ -1,13 +1,3 @@
-### Welcome!
-#### - Santos - SP
-#### - Currently working with Computational Mathematics.
-I'm a former Systems Development Technician
-
-Currently studing to start a graduation in Computational Physics.
-
-In love with every mathematical part of a software.
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koobzaar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+Nice to see you here.
+I'm a Software Engineer. Previously I studied Mathematical Sciences at Federal University of Rio de Janeiro (UFRJ), however, I decided to leave. I'm currently studying for Physics Institute of São Carlos - University of São Paulo (IFSC-USP) / Computational Physics or Applied Mathematics.
+I believe that every knowledge shoud be free. That's why all my projects are open-source.
