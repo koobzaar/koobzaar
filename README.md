@@ -10,7 +10,6 @@ koobzaar@github
 
    Degree      :  Applied Mathematics
  Institution   :  São Paulo State University
-RUF (raking)   :  #6 - Brazil / #9 Mathematics - Brazil
      OS        :  windows 11 / linux gentoo
      CPU       :  ryzen 5 2600
     Alias      :  kobzar/trigueiro
