@@ -7,13 +7,13 @@
 ```csharp
 koobzaar@github
 ----------------
-
-   Degree      :  Applied Mathematics
+   Degree      :  BSc. Mathematics
  Institution   :  São Paulo State University
-     OS        :  windows 11 (desktop) / pop! _os (laptop)
+    Laptop     :  Aspire 5 
+     OS        :  windows 11 (desktop) / pop! _os 22.04 LTS (laptop)
      CPU       :  ryzen 5 2600
     Alias      :  kobzar/trigueiro
   Languages    :  C, C#, JavaScript, Python
-   Laptop      :  Aspire 5 
    Discord     :  225585864200290304
+    E-mail     :  bruno.trigueiro@proton.me & bruno.trigueiro@unesp.br
 ```
