@@ -1,6 +1,5 @@
-🔬 Nice to see you here. 
-I'm a software engineer, mathematician and I.T. security enthusiast.
-Currently I'm working on [Harper](https://github.com/koobzaar/Harper), a Bose-Einstein condensate model based on Gross–Pitaevskii equation. In my Github profile you'll basically find math-related softwares, some 4fun projects and so on.
+🔬
+Great to meet you! I am a professional with expertise in software engineering, mathematics, and it security enthusiast. Presently, I am focused on developing Harper, a Bose-Einstein condensate model that utilizes the Gross–Pitaevskii equation. If you check out my Github profile, you'll discover a variety of software projects that showcase my love for mathematics, as well as a few fun side projects I've worked on.
 
 ```zsh
 > neofetch
