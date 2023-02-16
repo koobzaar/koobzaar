@@ -5,8 +5,6 @@ Great to meet you! I am a professional with expertise in software engineering, m
 > neofetch
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/u/48564736?v=4" alt="logo.png" width="200" /> 
-
 ```csharp
 koobzaar@github
 ----------------
