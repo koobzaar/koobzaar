@@ -7,7 +7,7 @@ Currently, I am focused on developing my research linked to the Brazil National 
 
 Additionally, in my free time, I am working on a project called Nautilus. Nautilus is a cloud-based backup system for progress in cracked games.
 
-I am a systems development technician, and I am studying systems development analysis at the São Paulo Institute of Technology, where I also work as a researcher.
+I am a systems development technician, and I am studying systems development analysis at the Fatec - Rubens Lara.
 
 ```zsh
 > neofetch
