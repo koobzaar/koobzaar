@@ -12,7 +12,7 @@ koobzaar@github
    Degree      :  BSc. Mathematics
  Institution   :  São Paulo State University
     Alias      :  kobzar/trigueiro
-  Languages    :  C, JavaScript, Python
+  Languages    :  JavaScript, Python
    Discord     :  225585864200290304
     E-mail     :  bruno.trigueiro@proton.me & bruno.trigueiro@unesp.br
 ```
