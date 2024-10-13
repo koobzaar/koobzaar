@@ -1,4 +1,3 @@
-# Bruno Trigueiro (koobzaar)
 
 Computational Mathematics Enthusiast | Full Stack Developer | Fraud Detection Researcher
 
