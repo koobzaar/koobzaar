@@ -1,7 +1,8 @@
 - Computational Mathematician / Applied Mathematics
 - Full Stack Web Developer
-- Researcher at @CNPq - Fraud detection of COVID-19 deaths
-
+- Researcher @ National Council for Scientific and Technological Development - Fraud detection of COVID-19 deaths
+  
+You can check my [Lattes here](http://lattes.cnpq.br/2341132684122094).
 ```zsh
 > neofetch
 ```
@@ -14,5 +15,5 @@ koobzaar@github
     Alias      :  kobzar/trigueiro
   Languages    :  JavaScript, Python
    Discord     :  225585864200290304
-    E-mail     :  bruno.trigueiro@proton.me & bruno.trigueiro@unesp.br
+    E-mail     :  bruno.trigueiro@proton.me
 ```
