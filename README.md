@@ -9,7 +9,7 @@ Currently, I'm pursuing a degree in Technology in Systems Analysis and Developme
 
 I'm always eager to learn and contribute to meaningful projects in the realm of computational mathematics and software development.
 
-[LinkedIn](https://www.linkedin.com/in/brunotrigueiro) | [Lattes CV](http://lattes.cnpq.br/2341132684122094) | bruno.trigueiro@proton.me | [Discord](https://discordapp.com/users/225585864200290304)
+[LinkedIn](https://www.linkedin.com/in/brunotrigueiro) | [Lattes CV](http://lattes.cnpq.br/2341132684122094) | bruno.trigueiro@proton.me | Discord: kobzar
 
 ---
 
