@@ -1,6 +1,9 @@
 Security researcher. Programmer.
 
-Open to work.
+Owner of [Dark Seal](https://github.com/darkseal-org).
 
-**DON'T** e-mail me about skin issues - `bruno.trigueiro@pm.me` -
-That's what the Issues tab is used for.
+
+
+Personal e-mail: bruno.trigueiro@pm.me
+
+Professional e-mail: dev@darkseal.org
