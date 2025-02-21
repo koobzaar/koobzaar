@@ -2,7 +2,7 @@ Security researcher. Programmer.
 
 Owner of [Dark Seal](https://github.com/darkseal-org).
 
-
+Open to work.
 
 Personal e-mail: bruno.trigueiro@pm.me
 
