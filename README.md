@@ -2,8 +2,6 @@ Mathematics undergraduate at [ICMC–USP](https://en.wikipedia.org/wiki/Universi
 
 **Research**
 
-Co-authored a [CNPq](https://www.gov.br/cnpq/)-funded study on the consistency of COVID-19 mortality data across WHO countries, using the Newcomb-Benford Law and demographic indices for anomaly detection. Presented at ICMA 2024 and the Congresso da Fatec.
-
 Currently working on synthetic healthcare data pipelines for stress-testing Python ingestion systems, with probabilistic record linkage via the Fellegi-Sunter model.
 
 **Academic interests**
