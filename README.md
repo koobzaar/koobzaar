@@ -20,7 +20,7 @@ Experienced with high-concurrency system architecture, statistical data pipeline
 
 **Outside of work**
 
-Competitive programming (SBC) through GEMA, Linux/Raspberry Pi home-lab administration, studying French, and reading hard science fiction and Brazilian poetry.
+Competitive programming (SBC) through GEMA. Tinkering with low-level systems and whatever the Raspberry Pi is currently routing. Reading Drummond and Andy Weir, sometimes on the same afternoon. Studying French. Physical textbooks only for pure math. League of Legends, mostly because half of my engineering projects ended up tied to it anyway.
 
 **Links**
 
