@@ -1,4 +1,4 @@
-Mathematics undergraduate at [ICMC–USP](https://en.wikipedia.org/wiki/Institute_of_Mathematics_and_Computer_Sciences), with a background in software engineering, ETL systems, and applied statistics. My interests sit at the intersection of mathematical modeling, statistical inference, and high-performance computing.
+Mathematics undergraduate at [ICMC–USP](https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo), with a background in software engineering, ETL systems, and applied statistics. My interests sit at the intersection of mathematical modeling, statistical inference, and high-performance computing.
 
 **Research**
 
