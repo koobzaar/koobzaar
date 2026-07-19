@@ -1,24 +1,10 @@
 Mathematics undergraduate at [ICMC–USP](https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo), with a background in software engineering, ETL systems, and applied statistics. My interests sit at the intersection of mathematical modeling, statistical inference, and high-performance computing.
 
-**Research**
-
-Currently working on synthetic healthcare data pipelines for stress-testing Python ingestion systems, with probabilistic record linkage via the Fellegi-Sunter model.
-
-**Academic interests**
-
-Real Analysis · Numerical Optimization · Machine Learning · Mathematical Modeling · HPC
-
-**Engineering**
-
-* **Languages:** Python, C++, JavaScript, TypeScript
-* **Web & APIs:** React, REST APIs
-* **Data & Infrastructure:** PostgreSQL, Docker, ETL design
-
 Experienced with high-concurrency system architecture, statistical data pipelines, and security research (HackerOne — Fortune 500 disclosures including Amazon, Riot Games, Mercado Livre).
 
 **Outside of work**
 
-Competitive programming (SBC) through GEMA. Tinkering with low-level systems and whatever the Raspberry Pi is currently routing. Reading Drummond and Andy Weir, sometimes on the same afternoon. Studying French. Physical textbooks only for pure math. League of Legends, mostly because half of my engineering projects ended up tied to it anyway.
+Competitive programming (SBC) through GEMA. Tinkering with low-level systems and whatever the Raspberry Pi is currently routing. Reading Drummond and Andy Weir, sometimes on the same afternoon. Physical textbooks only for pure math. League of Legends, mostly because half of my engineering projects ended up tied to it anyway.
 
 **Links**
 
