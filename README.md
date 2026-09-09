@@ -22,4 +22,5 @@ Outside research, I do competitive programming through [GEMA](https://www.icmc.u
 
 ---
 
-[LinkedIn](https://linkedin.com/in/brunotrigueiro) · [Lattes](http://lattes.cnpq.br/2341132684122094) · [Dark Seal](https://github.com/darkseal-org) · [Email](mailto:bruno.btrigueiro@gmail.com)
+[LinkedIn](https://linkedin.com/in/brunotrigueiro) · [Lattes](http://lattes.cnpq.br/2341132684122094) · [Dark Seal](https://github.com/darkseal-org) ·
+[Blog](https://brunotrigueiro.com) · [Email](mailto:bruno.btrigueiro@gmail.com)
