@@ -1,5 +1,5 @@
 ![Mathematics](https://img.shields.io/badge/Mathematics-USP-1094AB?style=flat-square)
-![Data Engineering](https://img.shields.io/badge/Incoming%20Data%20Engineering-Ita%C3%BA%20Unibanco-EC7000?style=flat-square)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineer-Ita%C3%BA%20Unibanco-EC7000?style=flat-square)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-Networks%20%26%20Binaries-30363D?style=flat-square)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Research%20%26%20Tooling-52796F?style=flat-square)
 
